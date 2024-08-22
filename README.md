@@ -1,5 +1,6 @@
 Stock Market Analysis with AI
-![Captura de ecrã 2024-08-22 024359](https://github.com/user-attachments/assets/0f018b32-c438-4239-b2b9-52cb7ceaf3c2)
+![Captura de ecrã 2024-08-22 025817](https://github.com/user-attachments/assets/0fa267c2-9704-49da-94a3-a60e8c3f1fa0)
+
 
 This project is a comprehensive AI-powered solution for analyzing stock prices and market news. It was developed as part of the "IA na Prática" event by Rocketseat. The application uses advanced AI agents to gather stock price data, analyze market trends, and generate insightful reports, all accessible via a Streamlit web interface.
 
